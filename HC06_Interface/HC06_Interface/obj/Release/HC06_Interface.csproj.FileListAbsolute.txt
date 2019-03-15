@@ -1,0 +1,17 @@
+E:\HOC_TAP\LUAN_VAN\HC06_Interface\HC06_Interface\bin\Release\HC06_Interface.exe
+E:\HOC_TAP\LUAN_VAN\HC06_Interface\HC06_Interface\bin\Release\HC06_Interface.pdb
+E:\HOC_TAP\LUAN_VAN\HC06_Interface\HC06_Interface\obj\Release\HC06_Interface.csprojResolveAssemblyReference.cache
+E:\HOC_TAP\LUAN_VAN\HC06_Interface\HC06_Interface\obj\Release\HC06_Interface.Form1.resources
+E:\HOC_TAP\LUAN_VAN\HC06_Interface\HC06_Interface\obj\Release\HC06_Interface.Properties.Resources.resources
+E:\HOC_TAP\LUAN_VAN\HC06_Interface\HC06_Interface\obj\Release\HC06_Interface.csproj.GenerateResource.Cache
+E:\HOC_TAP\LUAN_VAN\HC06_Interface\HC06_Interface\obj\Release\HC06_Interface.exe
+E:\HOC_TAP\LUAN_VAN\HC06_Interface\HC06_Interface\obj\Release\HC06_Interface.pdb
+E:\HOC_TAP\LUAN_VAN\30_SW\GIAO_DIEN\HC06_Interface\HC06_Interface\bin\Release\HC06_Interface.exe
+E:\HOC_TAP\LUAN_VAN\30_SW\GIAO_DIEN\HC06_Interface\HC06_Interface\bin\Release\HC06_Interface.pdb
+E:\HOC_TAP\LUAN_VAN\30_SW\GIAO_DIEN\HC06_Interface\HC06_Interface\obj\Release\HC06_Interface.csprojResolveAssemblyReference.cache
+E:\HOC_TAP\LUAN_VAN\30_SW\GIAO_DIEN\HC06_Interface\HC06_Interface\obj\Release\HC06_Interface.Form2.resources
+E:\HOC_TAP\LUAN_VAN\30_SW\GIAO_DIEN\HC06_Interface\HC06_Interface\obj\Release\HC06_Interface.Form1.resources
+E:\HOC_TAP\LUAN_VAN\30_SW\GIAO_DIEN\HC06_Interface\HC06_Interface\obj\Release\HC06_Interface.Properties.Resources.resources
+E:\HOC_TAP\LUAN_VAN\30_SW\GIAO_DIEN\HC06_Interface\HC06_Interface\obj\Release\HC06_Interface.csproj.GenerateResource.Cache
+E:\HOC_TAP\LUAN_VAN\30_SW\GIAO_DIEN\HC06_Interface\HC06_Interface\obj\Release\HC06_Interface.exe
+E:\HOC_TAP\LUAN_VAN\30_SW\GIAO_DIEN\HC06_Interface\HC06_Interface\obj\Release\HC06_Interface.pdb
